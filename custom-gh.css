@@ -1,6 +1,9 @@
 <style>
 /* Example CSS rule */
-body {
-    background-color: #f4f4f4!important;
+
+#field_9_22 .gfield_label {
+    display:none;
 }
+
+
 </style>
