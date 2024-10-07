@@ -1,8 +1,8 @@
 <style>
 /* Example CSS rule */
 
-#field_9_22 .gfield_label {
-    display:none;
+.display-none-row-main {
+    display:none!important;
 }
 
 
